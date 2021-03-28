@@ -11,7 +11,7 @@ public class Main {
 	private void start() {
 
 		int idade = 1;
-		System.out.println("Idade da clarinha: " + idade);
+		System.out.println("Idade da Maria Clara Moreira: " + idade);
 
 	}
 	
